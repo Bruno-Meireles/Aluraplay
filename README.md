@@ -1,17 +1,28 @@
-# Nome do meu projeto
 
-Rápida descrição do objetivo de fazer esse projeto
+
+
+
+*AluraPlay
+
+Projeto Aluraplay
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        |AluraPlay
+| :label: Tecnologias |  HTML  CSS
+| :rocket: URL         | 
+| :fire: Desafio     | 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Screenshot_19](https://user-images.githubusercontent.com/88012503/195910619-ca855ce2-4b92-46a0-bfad-0a0be73ec3fc.png)
 
-## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+## Aprendendo usar flexbox
+
+
+![Screenshot_20](https://user-images.githubusercontent.com/88012503/195911000-7a471c56-5631-4f05-9d86-6f1c75a0621a.png)
+
+
+<p align="center">Um site para divulgação da AluraPlay, uma plataforma de streaming com os conteúdos educacionais da Alura.</p>
+
+
